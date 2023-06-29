@@ -1,0 +1,80 @@
+Design: 0:01, miércoles, 10 de mayo de 2023
+Design: Opening design "C:\Archivos de programa\Cypress\Warp\examples\X\Practica2\practica_2\practica_2.adf"
+Compilation with file reorder...
+File: C:\Archivos de programa\Cypress\Warp\examples\X\Practica2\practica_2.vhd
+Compile Entity "CM"
+Compile Architecture "A_CM" of Entity "CM"
+Top-Level unit detected
+Entity  =>   CM
+Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+0:02, miércoles, 10 de mayo de 2023
+Simulation has been initialized
+Selected Top-Level: CM (A_CM)
+KERNEL: stopped at time: 2 ms
+KERNEL: Simulation has finished. There are no more test vectors to simulate.
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+0:05, miércoles, 10 de mayo de 2023
+Simulation has been initialized
+Selected Top-Level: CM (A_CM)
+KERNEL: stopped at time: 2 ms
+KERNEL: Simulation has finished. There are no more test vectors to simulate.
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+0:05, miércoles, 10 de mayo de 2023
+Simulation has been initialized
+Selected Top-Level: CM (A_CM)
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+0:06, miércoles, 10 de mayo de 2023
+Simulation has been initialized
+Selected Top-Level: CM (A_CM)
+KERNEL: stopped at time: 2 ms
+KERNEL: Simulation has finished. There are no more test vectors to simulate.
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+ELBREAD: Elaboration process.
+ELBREAD: Elaboration time 0.0 [s].
+KERNEL: Main thread initiated.
+KERNEL: Kernel process initialization phase.
+ELAB2: Elaboration final pass...
+ELAB2: Elaboration final pass complete - time: 0.0 [s].
+KERNEL: Kernel process initialization done.
+0:07, miércoles, 10 de mayo de 2023
+Simulation has been initialized
+Selected Top-Level: CM (A_CM)
+KERNEL: stopped at time: 2 ms
+KERNEL: Simulation has finished. There are no more test vectors to simulate.
+Warning: Active-HDL(tm) Sim has reached  the maximum simulation time (2ms) allowed in any single simulation run.  The effective length of the simulation may be extended by running multiple simulations in increments of 2ms.  To upgrade your software to handle simulations greater than this time as well as VHDL source level simulation contact Aldec - sales@aldec.com
+Simulation has been stopped

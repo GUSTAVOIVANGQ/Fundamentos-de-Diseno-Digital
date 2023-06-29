@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Archivos de programa\Cypress\Warp\examples\X\Practica2\practica_2.vhd
+ Compile Entity "CM"
+ Compile Architecture "A_CM" of Entity "CM"
+ Top-Level unit detected
+ Entity  =>   CM
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

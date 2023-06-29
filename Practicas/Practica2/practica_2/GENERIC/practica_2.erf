@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Archivos de programa\Cypress\Warp\examples\X\Practica2\practica_2.vhd" 
+MESSAGE "Compile Entity "CM"" 
+MESSAGE "Compile Architecture "A_CM" of Entity "CM"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   CM" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 
