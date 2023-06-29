@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Archivos de programa\Cypress\Warp\examples\X\Practica3\Practica3.vhd
+ Compile Entity "SU"
+ Compile Architecture "A_SU" of Entity "SU"
+ Top-Level unit detected
+ Entity  =>   SU
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

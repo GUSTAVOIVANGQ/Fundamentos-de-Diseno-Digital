@@ -1,0 +1,8 @@
+MESSAGE "File: C:\Archivos de programa\Cypress\Warp\examples\X\Practica3\P33.vhd" 
+MESSAGE "Compile Entity "SU"" 
+MESSAGE "Compile Architecture "A_SU" of Entity "SU"" 
+ERROR COMP96_0078: "Unknown identifier "synthesis_OFF"." "C:\Archivos de programa\Cypress\Warp\examples\X\Practica3\P33.vhd" 14 1
+ERROR COMP96_0088: "The attribute designator must denote an attribute." "C:\Archivos de programa\Cypress\Warp\examples\X\Practica3\P33.vhd" 14 1
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   SU" 
+MESSAGE "Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]" 

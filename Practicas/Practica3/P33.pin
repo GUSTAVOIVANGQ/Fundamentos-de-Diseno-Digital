@@ -1,0 +1,21 @@
+Cypress Package: palce22v10-15pc  PinOut File: P33.pin
+
+This file was created on 06/19/2023 at 10:13:54 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+b(3) in <> Enabled Normal 1 <> [Auto] 
+b(2) in <> Enabled Normal 2 <> [Auto] 
+a(3) in <> Enabled Normal 3 <> [Auto] 
+a(2) in <> Enabled Normal 4 <> [Auto] 
+ci in <> Enabled Normal 5 <> [Auto] 
+ca in <> Enabled Normal 6 <> [Auto] 
+b(1) in <> Enabled Normal 7 <> [Auto] 
+b(0) in <> Enabled Normal 8 <> [Auto] 
+a(1) in <> Enabled Normal 9 <> [Auto] 
+a(0) in <> Enabled Normal 10 <> [Auto] 
+s(3) out <> Enabled Normal 14 <> [Auto] 
+s(1) out <> Enabled Normal 15 <> [Auto] 
+cf out <> Enabled Normal 16 <> [Auto] 
+s(0) out <> Enabled Normal 22 <> [Auto] 
+s(2) out <> Enabled Normal 23 <> [Auto] 

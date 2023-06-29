@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Archivos de programa\Cypress\Warp\examples\X\Practica3\Practica3.vhd" 
+MESSAGE "Compile Entity "SU"" 
+MESSAGE "Compile Architecture "A_SU" of Entity "SU"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   SU" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 
